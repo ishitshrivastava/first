@@ -1,0 +1,78 @@
+body{
+  background-color: lightcyan;
+}
+
+/* class selector */
+.NAME{
+  text-align: center;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 250%;
+  margin: 5px 5px 5px;
+}
+
+#reception{
+  width: 7.5%;
+  position:relative;
+  left: 20px;
+}
+
+#Initials{
+  text-align: right;
+  position: relative;
+  bottom: 120px;
+  right:20px;
+}
+
+#mountain {
+  position: relative;
+  left: 370px;
+  width: 50%;
+}
+
+
+
+#LINE1{
+  color: black;
+  width: 100%;
+  height: 500%;
+}
+
+#skills{
+  width: 18%;
+  position: relative;
+  top: 20px;
+  left: 200px;
+
+}
+
+#desc{
+  font-style: italic;
+  position: relative;
+  bottom: 240px;
+  left: 500px;
+}
+
+#LIST{
+  font-family: cursive;
+  position: relative;
+  bottom: 236px;
+  left: 500px;
+}
+
+#phone{
+  width: 14%;
+  position: relative;
+  left: 210px;
+}
+#conc {
+  font-style: italic;
+  position: relative;
+  bottom: 250px;
+  left: 500px;
+}
+#BABY {
+  font-family: cursive;
+  position: relative;
+  bottom: 245px;
+  left: 500px;
+  line-height: 300%;
